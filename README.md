@@ -4,5 +4,5 @@
 <ul>
 	<li>Todo Application</li>
 	<li>Basic calculator</li>
-	<li>Various feature try outs on ios mobile app</li>
+	<li>Various feature try outs of ios mobile app</li>
 </ul>
